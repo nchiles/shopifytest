@@ -111,22 +111,6 @@
         "default": 100
       },
       {
-        "type": "font_picker",
-        "id": "type_header_font_custom",
-        "default": "assistant_n4",
-        "label": "Custom Font"
-      },
-      {
-        "type": "range",
-        "id": "heading_scale_custom",
-        "min": 100,
-        "max": 150,
-        "step": 5,
-        "unit": "%",
-        "label": "Custom Font Scale",
-        "default": 100
-      },
-      {
         "type": "select",
         "id": "custom_font_picker",
         "label": "Font Picker",
@@ -137,7 +121,7 @@
           },
           {
             "value": "middle",
-            "label": "Middle"
+            "label": "Standard"
           }
         ],
         "default": "middle"
