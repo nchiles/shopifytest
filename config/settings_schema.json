@@ -114,7 +114,7 @@
         "type": "font_picker",
         "id": "type_header_font_custom",
         "default": "assistant_n4",
-        "label": "t:settings_schema.typography.settings.type_header_font.label"
+        "label": "Custom Font"
       },
       {
         "type": "range",
