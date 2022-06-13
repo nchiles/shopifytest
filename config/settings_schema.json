@@ -120,11 +120,11 @@
             "label": "Balboa"
           },
           {
-            "value": "assistant_n4",
-            "label": "Standard"
+            "value": "work-sans",
+            "label": "Work Sans"
           }
         ],
-        "default": "assistant_n4"
+        "default": "work-sans"
       },
       {
         "type": "header",
