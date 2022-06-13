@@ -127,6 +127,26 @@
         "default": 100
       },
       {
+        "type": "select",
+        "id": "vertical_alignment",
+        "label": "Vertical alignment",
+        "options": [
+          {
+            "value": "top",
+            "label": "Top"
+          },
+          {
+            "value": "middle",
+            "label": "Middle"
+          },
+          {
+            "value": "bottom",
+            "label": "Bottom"
+          }
+        ],
+        "default": "middle"
+      },
+      {
         "type": "header",
         "content": "t:settings_schema.typography.settings.header__2.content"
       },
