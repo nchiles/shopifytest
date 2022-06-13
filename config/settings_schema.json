@@ -107,7 +107,7 @@
         "max": 150,
         "step": 5,
         "unit": "%",
-        "label": "test",
+        "label": "t:settings_schema.typography.settings.heading_scale.label",
         "default": 100
       },
       {
