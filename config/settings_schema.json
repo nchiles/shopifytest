@@ -120,11 +120,11 @@
             "label": "Balboa"
           },
           {
-            "value": "middle",
+            "value": "assistant_n4",
             "label": "Standard"
           }
         ],
-        "default": "middle"
+        "default": "assistant_n4"
       },
       {
         "type": "header",
