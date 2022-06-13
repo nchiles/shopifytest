@@ -128,8 +128,8 @@
       },
       {
         "type": "select",
-        "id": "vertical_alignment",
-        "label": "Vertical alignment",
+        "id": "custom_font_picker",
+        "label": "Font Picker",
         "options": [
           {
             "value": "top",
