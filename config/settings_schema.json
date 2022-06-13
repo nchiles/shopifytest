@@ -138,10 +138,6 @@
           {
             "value": "middle",
             "label": "Middle"
-          },
-          {
-            "value": "bottom",
-            "label": "Bottom"
           }
         ],
         "default": "middle"
