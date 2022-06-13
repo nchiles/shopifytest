@@ -102,16 +102,6 @@
       },
       {
         "type": "range",
-        "id": "heading_scale_test",
-        "min": 100,
-        "max": 150,
-        "step": 5,
-        "unit": "%",
-        "label": "t:settings_schema.typography.settings.heading_scale.label",
-        "default": 100
-      },
-      {
-        "type": "range",
         "id": "heading_scale",
         "min": 100,
         "max": 150,
