@@ -52,9 +52,9 @@
         --font-body-weight: {{ settings.type_body_font.weight }};
         --font-body-weight-bold: {{ settings.type_body_font.weight | plus: 300 | at_most: 1000 }};
     	
-		--font-heading-family-custom: {{ settings.custom_font_picker }}, {{ settings.custom_font_picker.fallback_families }};
-        --font-heading-style-custom: {{ settings.custom_font_picker.style }};
-        --font-heading-weight-custom: {{ settings.custom_font_picker.weight }};
+		--font-heading-family-custom: {{ settings.custom_font_picker }}, "sans-serif";
+        --font-heading-style-custom: "Normal";
+        --font-heading-weight-custom: "500";
 
         --font-body-scale: {{ settings.body_scale | divided_by: 100.0 }};
         --font-heading-scale: {{ settings.heading_scale | times: 1.0 | divided_by: settings.body_scale }};
