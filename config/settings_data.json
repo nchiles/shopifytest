@@ -12,8 +12,7 @@
     "colors_background_2": "#f3f3f3",
     "gradient_background_2": "",
     "custom_font_picker": "balboa",
-    "heading_scale": 100,
-    "type_body_font": "work_sans_n4",
+    "type_body_font": "serif",
     "body_scale": 100,
     "page_width": 1200,
     "spacing_sections": 0,
@@ -96,6 +95,7 @@
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
     "currency_code_enabled": true,
+    "heading_scale": 100,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
