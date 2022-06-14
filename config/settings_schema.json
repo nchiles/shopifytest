@@ -96,7 +96,7 @@
       {
         "type": "select",
         "id": "custom_font_picker",
-        "label": "Font Picker",
+        "label": "Select headings font",
         "options": [
           {
             "value": "balboa",
